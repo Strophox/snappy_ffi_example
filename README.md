@@ -1,6 +1,8 @@
 # snappy_ffi_example
 Testing Rust's and Miri's FFI capabilities.
 
+As of writing, this is also the main FFI example used in [The Rustonomicon](https://doc.rust-lang.org/nomicon/ffi.html).
+
 ## How to run/test
 
 To run the tests this crate requires a compiled version of [Google/snappy](https://github.com/google/snappy).
